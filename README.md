@@ -22,7 +22,7 @@ PC 端技术架构：
 
 七牛云项目地址仓库：
 
-    static/BKRYB/mini（小程序端） static/BKRYB/pc（pc端）
+    static/BKRYB/mobile（移动端/H5） static/BKRYB/pc（pc端）
 
 **ts 参数类型校验尽可能定义确定类型，勿大范围使用 any**
 
@@ -58,4 +58,4 @@ PC 端技术架构：
 
     views：视图文件
 
-![Image text](https://resource.boka.vc/BKRYB/pc/pc%E7%AB%AF%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95.jpg)
+![Image text](https://resource.boka.vc/BKRYB/mobile/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95.png)
