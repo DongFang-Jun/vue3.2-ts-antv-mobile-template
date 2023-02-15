@@ -1,7 +1,3 @@
-项目名
-
-    博卡美容如意宝移动端
-
 PC 端技术架构：
 
     vue3.2全家桶（组合式api + vite + pinia + vueRouter）+ typescript + less + vant@4
@@ -19,10 +15,6 @@ PC 端技术架构：
 新增依赖：
 
     yarn add xxx
-
-七牛云项目地址仓库：
-
-    static/BKRYB/mobile（移动端/H5） static/BKRYB/pc（pc端）
 
 **ts 参数类型校验尽可能定义确定类型，勿大范围使用 any**
 
